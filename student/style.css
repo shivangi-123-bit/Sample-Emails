@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+  }
+
+  .email-container {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .header {
+    background-image: url("https://raw.githubusercontent.com/Kritikasingh2004/email-temp/main/Logo%20CC%20w.png ");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #051c35;
+    height: 30vh;
+    padding: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .main-box {
+    border-radius: 15px;
+  }
+
+  .body {
+    padding: 20px;
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #f4f4f4;
+    font-size: 12px;
+    color: #777777;
+  }
